@@ -1,0 +1,24 @@
+{
+  "name": "api-weather",
+  "version": "1.0.0",
+  "description": "Typescript Node.js API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victodias/api-weather.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "api"
+  ],
+  "author": "Victor Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victodias/api-weather/issues"
+  },
+  "homepage": "https://github.com/victodias/api-weather#readme"
+}
