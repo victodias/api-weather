@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/victodias/api-weather/issues"
   },
-  "homepage": "https://github.com/victodias/api-weather#readme"
+  "homepage": "https://github.com/victodias/api-weather#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.8",
+    "typescript": "^4.5.4"
+  }
 }
